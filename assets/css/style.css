@@ -174,3 +174,18 @@ h3 {
     text-align: center;
     margin-top: -65px;
     margin-left: 200px;           
+}
+
+.bio-info {
+    background-color: #ffffff;
+    font-size: larger;
+    color: #666666
+}
+
+#main-bio {
+    padding: 20px;
+}
+
+#about {
+    color: #4aaaa5
+}
