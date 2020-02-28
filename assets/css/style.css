@@ -1,4 +1,5 @@
-body {background-image: url(trees.png);}
+body {
+    background-image: url(trees.png);}
 
 .container {
     width: 960px;
@@ -179,7 +180,7 @@ h3 {
 .bio-info {
     background-color: #ffffff;
     font-size: larger;
-    color: #666666
+    color: #666666;
 }
 
 #main-bio {
@@ -188,4 +189,12 @@ h3 {
 
 #about {
     color: #4aaaa5
+}
+
+.jumbotron {
+    background-color: #4aaaa5;
+}
+
+.header-tab {
+    color: #666666;
 }
