@@ -4,14 +4,14 @@ body {
 .container {
     width: 960px;
     margin: auto;
-    padding-top: 75px ;
 }
 
 img#bio-pic {
     float: left; 
-    align: top;
+    align: center;
     height: 150px;
     width: 20%;
+    padding: 15px;
 }
 
 .clearview::after {
